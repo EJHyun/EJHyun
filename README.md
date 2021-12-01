@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there! 👋
+- 🔭 I’m currently working on researching Temporal knowledge graph embedding DL/ML model for interpolation link prediction task.
+- 🌱 I’m currently learning pytorch/tensorflow/DGL/ML/DL
+- 👯 I’m looking to collaborate on various ML/DL projects
 <!--
 **EJHyun/EJHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
