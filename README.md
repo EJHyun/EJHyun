@@ -1,5 +1,5 @@
 ### Hi there! 👋
-- 🔭 I’m currently working on researching Temporal Knowledge Graph Embedding DL/ML model for interpolation link prediction task.
+- 🔭 I’m currently working on researching Temporal Knowledge Graph Embedding DL/ML model for interpolation link prediction task
 - 🌱 I’m currently learning pytorch/tensorflow/DGL/ML/DL
 - 👯 I’m looking to collaborate on various ML/DL projects
 <!--
