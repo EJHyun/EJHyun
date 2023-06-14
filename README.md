@@ -1,5 +1,5 @@
 ### Hi there! 👋
-- 🔭 I’m currently working on researching Temporal Knowledge Graph Embedding DL/ML models.
+- 🔭 I’m currently working on researching Temporal Knowledge Graph Embedding DL/ML models and Recommender Systems.
 - 🌱 I’m currently enhancing my pytorch/ tensorflow/ DGL/ ML/ DL /data science skills.
 - 👯 I’m looking to collaborate on various ML/DL projects.
 <!--
